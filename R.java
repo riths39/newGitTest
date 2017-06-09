@@ -64,7 +64,7 @@ public final class R {
 
     }
  public static final class new {
- public static final int rr=2;
+ public static final int rr=5;
 
     }
  
